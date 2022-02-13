@@ -1,0 +1,34 @@
+
+        body{
+            background-image: url("back.jpg");
+            background-size: 350px;
+            font-family: 'Press Start 2P', cursive;
+            background-position: fixed;
+          
+            
+        }       
+        p {
+        color: rgb(0, 0, 0);
+        text-align: center;
+        font-family: 'Space Mono', monospace;
+        font-size: 10px;
+
+       }
+       h1{
+        color: rgb(0, 0, 0);
+        font-family: 'Space Mono', monospace;
+        text-align: center;
+       }
+       h3{
+        color: rgb(0, 0, 0);
+        font-family: 'Space Mono', monospace;
+        text-align: 30% left;
+       }
+       div{
+         margin: auto;
+         background-color: rgb(255, 255, 255);
+         width: 1450px;
+         height: 6000;
+         position: center;
+         font-family: 'Press Start 2P', cursive;
+       }
